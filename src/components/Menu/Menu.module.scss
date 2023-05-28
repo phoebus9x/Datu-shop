@@ -1,0 +1,29 @@
+.content {
+    width: 200px;
+}
+
+.menu-popper {
+    padding-bottom: 4px;
+}
+
+.menu-item {
+    cursor: pointer;
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    border-radius: 0;
+    padding: 6px 16px;
+    user-select: none;
+    color: var(--text-color);
+    position: relative;
+    right: 0;
+    transition: right linear 0.1s;
+    &:hover {
+        color: var(--primary-color);
+        right: -4px;
+    }
+}
+
+.menu-icon {
+    min-width: 30px;
+}

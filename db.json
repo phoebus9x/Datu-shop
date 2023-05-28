@@ -1,0 +1,1024 @@
+{
+    "macbooks": [
+        {
+            "id": 1,
+            "name": "Macbook",
+            "title": "Macbook air m1 2020 13' inch 8GB RAM 256GB SSD",
+            "price_old": "1200",
+            "price_current": 1080,
+            "like": true,
+            "star": "5",
+            "image": "https://onewaymacbook.vn/images/products/2020/11/24/resized/mgn93_1606206053-copy.jpeg"
+        },
+        {
+            "id": 2,
+            "name": "Macbook",
+            "title": "Macbook air m1 2020 13' inch 16GB RAM 256GB SSD",
+            "price_old": "1400",
+            "price_current": 1260,
+            "like": false,
+            "star": "3",
+            "image": "https://onewaymacbook.vn/images/products/2022/09/06/resized/bac_1662435820.png"
+        },
+        {
+            "id": 3,
+            "name": "Macbook",
+            "title": "Macbook air m1 2020 13' inch 8GB RAM 512GB SSD",
+            "price_old": "1450",
+            "price_current": 1305,
+            "like": true,
+            "star": "4",
+            "image": "https://onewaymacbook.vn/images/uploads/2018/01/MF8391.webp"
+        },
+        {
+            "id": 4,
+            "name": "Macbook",
+            "title": "Macbook air m1 2020 13' inch 16GB RAM 512GB SSD",
+            "price_old": "1600",
+            "price_current": 1440,
+            "like": true,
+            "star": "4",
+            "image": "https://onewaymacbook.vn/images/products/2020/11/24/resized/mgn93_1606206053-copy.jpeg"
+        },
+        {
+            "id": 5,
+            "name": "Macbook",
+            "title": "Macbook air m1 2020 13' inch 8GB RAM 1TB SSD",
+            "price_old": "1500",
+            "price_current": 1350,
+            "like": false,
+            "star": "3",
+            "image": "https://onewaymacbook.vn/images/products/2022/09/06/resized/bac_1662435820.png"
+        },
+        {
+            "id": 6,
+            "name": "Macbook",
+            "title": "Macbook air m1 2020 13' inch 16GB RAM 1TB SSD",
+            "price_old": "1700",
+            "price_current": 1530,
+            "like": true,
+            "star": "5",
+            "image": "https://onewaymacbook.vn/images/products/2021/03/12/resized/mjlt2_1615520149.jpeg"
+        },
+        {
+            "id": 7,
+            "name": "Macbook",
+            "title": "Macbook air m1 2020 13' inch 32GB RAM 512GB SSD",
+            "price_old": "1800",
+            "price_current": 1620,
+            "like": false,
+            "star": "2",
+            "image": "https://onewaymacbook.vn/images/uploads/2018/01/MF8391.webp"
+        },
+        {
+            "id": 8,
+            "name": "Macbook",
+            "title": "Macbook air m1 2020 13' inch 32GB RAM 1TB SSD",
+            "price_old": "2000",
+            "price_current": 1800,
+            "like": true,
+            "star": "5",
+            "image": "https://onewaymacbook.vn/images/products/2020/11/24/resized/mgn93_1606206053-copy.jpeg"
+        },
+        {
+            "id": 9,
+            "name": "Macbook",
+            "title": "Macbook air m1 2020 13' inch 32GB RAM 2TB SSD",
+            "price_old": "2400",
+            "price_current": 2160,
+            "like": false,
+            "star": "3",
+            "image": "https://onewaymacbook.vn/images/products/2020/08/07/resized/macbook_air_2020_mwtl2_onewaymacbookvn__1596250374_1596792375.webp"
+        },
+        {
+            "id": 10,
+            "name": "Macbook",
+            "title": "Macbook pro m1 2020 13' inch 16GB RAM 2TB SSD",
+            "price_old": "2100",
+            "price_current": 1890,
+            "like": false,
+            "star": "4",
+            "image": "https://onewaymacbook.vn/images/products/2020/11/24/resized/mgn93_1606206053-copy.jpeg"
+        },
+        {
+            "id": 11,
+            "name": "Macbook",
+            "title": "Macbook pro m1 2020 13' inch 8GB RAM 256GB SSD",
+            "price_old": 1400,
+            "price_current": 1260,
+            "like": true,
+            "star": "5",
+            "image": "https://onewaymacbook.vn/images/products/2021/03/12/resized/mjlt2_1615520149.jpeg"
+        },
+        {
+            "id": 12,
+            "name": "Macbook",
+            "title": "Macbook pro m1 2020 13' inch 16GB RAM 256GB SSD",
+            "price_old": 1600,
+            "price_current": 1440,
+            "like": false,
+            "star": "2",
+            "image": "https://onewaymacbook.vn/images/products/2020/11/24/resized/mgn93_1606206053-copy.jpeg"
+        },
+        {
+            "id": 13,
+            "name": "Macbook",
+            "title": "Macbook pro m1 2020 13' inch 8GB RAM 512GB SSD",
+            "price_old": 1650,
+            "price_current": 1485,
+            "like": false,
+            "star": "4",
+            "image": "https://onewaymacbook.vn/images/products/2022/09/06/resized/bac_1662435820.png"
+        },
+        {
+            "id": 14,
+            "name": "Macbook",
+            "title": "Macbook pro m1 2020 13' inch 16GB RAM 512GB SSD",
+            "price_old": 1800,
+            "price_current": 1620,
+            "like": true,
+            "star": "5",
+            "image": "https://onewaymacbook.vn/images/products/2020/11/24/resized/mgn93_1606206053-copy.jpeg"
+        },
+        {
+            "id": 15,
+            "name": "Macbook",
+            "title": "Macbook pro m1 2020 13' inch 8GB RAM 1TB SSD",
+            "price_old": 1700,
+            "price_current": 1530,
+            "like": true,
+            "star": "5",
+            "image": "https://onewaymacbook.vn/images/products/2020/08/07/resized/macbook_air_2020_mwtl2_onewaymacbookvn__1596250374_1596792375.webp"
+        },
+        {
+            "id": 16,
+            "name": "Macbook",
+            "title": "Macbook pro m1 2020 13' inch 16GB RAM 1TB SSD",
+            "price_old": 1900,
+            "price_current": 1710,
+            "like": false,
+            "star": "2",
+            "image": "https://onewaymacbook.vn/images/products/2020/11/24/resized/mgn93_1606206053-copy.jpeg"
+        },
+        {
+            "id": 17,
+            "name": "Macbook",
+            "title": "Macbook pro m1 2020 13' inch 32GB RAM 512GB SSD",
+            "price_old": 2000,
+            "price_current": 1800,
+            "like": true,
+            "star": "5",
+            "image": "https://onewaymacbook.vn/images/products/2022/09/06/resized/bac_1662435820.png"
+        },
+        {
+            "id": 18,
+            "name": "Macbook",
+            "title": "Macbook pro m1 2020 13' inch 32GB RAM 1TB SSD",
+            "price_old": 2200,
+            "price_current": 1980,
+            "like": true,
+            "star": "5",
+            "image": "https://onewaymacbook.vn/images/products/2020/11/24/resized/mgn93_1606206053-copy.jpeg"
+        },
+        {
+            "id": 19,
+            "name": "Macbook",
+            "title": "Macbook pro m1 2020 13' inch 32GB RAM 2TB SSD",
+            "price_old": 2600,
+            "price_current": 2340,
+            "like": true,
+            "star": "4",
+            "image": "https://onewaymacbook.vn/images/products/2021/03/12/resized/mjlt2_1615520149.jpeg"
+        },
+        {
+            "id": 20,
+            "name": "Macbook",
+            "title": "Macbook pro m1 2020 13' inch 16GB RAM 2TB SSD",
+            "price_old": 2300,
+            "price_current": 2070,
+            "like": false,
+            "star": "3",
+            "image": "https://onewaymacbook.vn/images/products/2022/09/06/resized/bac_1662435820.png"
+        }
+    ],
+    "iphones": [
+        {
+            "id": 1,
+            "name": "Iphone",
+            "title": "Apple iphone SE 2022 4GB - 64GB VN/A",
+            "price_old": "1000",
+            "price_current": 900,
+            "like": true,
+            "star": "5",
+            "image": "https://onewaymobile.vn/images/products/2022/06/18/resized/ip-se-2022-onewaymobile_1655525232.png"
+        },
+        {
+            "id": 2,
+            "name": "Iphone",
+            "title": "Apple iphone 11 4GB  - 64GB VN/A",
+            "price_old": 1050,
+            "price_current": 945,
+            "like": true,
+            "star": "4",
+            "image": "https://onewaymobile.vn/images/products/2022/08/20/resized/iphone-11-gold_1660960083.png"
+        },
+        {
+            "id": 3,
+            "name": "Iphone",
+            "title": "Apple iphone SE 2022 - 128GB VN/A",
+            "price_old": 1100,
+            "price_current": 990,
+            "like": true,
+            "star": "4",
+            "image": "https://onewaymobile.vn/images/products/2022/06/18/resized/ip-se-2022-onewaymobile_1655525232.png"
+        },
+        {
+            "id": 4,
+            "name": "Iphone",
+            "title": "Apple iphone 11 4GB  - 128GB VN/A",
+            "price_old": 1150,
+            "price_current": 1035,
+            "like": true,
+            "star": "4",
+            "image": "https://onewaymobile.vn/images/products/2022/08/20/resized/iphone-11-gold_1660960083.png"
+        },
+        {
+            "id": 5,
+            "name": "Iphone",
+            "title": "Apple iphone 12 4GB  - 64GB VN/A",
+            "price_old": 1200,
+            "price_current": 1080,
+            "like": "FALSE",
+            "star": "5",
+            "image": "https://onewaymobile.vn/images/products/2022/06/18/resized/iphone-12-oneway-2_1655521384.png"
+        },
+        {
+            "id": 6,
+            "name": "Iphone",
+            "title": "Apple iphone 12 4GB  - 128GB VN/A",
+            "price_old": 1250,
+            "price_current": 1125,
+            "like": true,
+            "star": "5",
+            "image": "https://onewaymobile.vn/images/products/2022/06/18/resized/iphone-12-oneway-2_1655521384.png"
+        },
+        {
+            "id": 7,
+            "name": "Iphone",
+            "title": "Apple iphone 13 4GB  - 64GB VN/A",
+            "price_old": 1300,
+            "price_current": 1170,
+            "like": true,
+            "star": "4",
+            "image": "https://onewaymobile.vn/images/products/2022/06/18/resized/iphone-13-pro-oneway-1_1655520789.png"
+        },
+        {
+            "id": 8,
+            "name": "Iphone",
+            "title": "Apple iphone 13 4GB  - 128GB VN/A",
+            "price_old": 1350,
+            "price_current": 1215,
+            "like": true,
+            "star": "5",
+            "image": "https://onewaymobile.vn/images/products/2022/06/18/resized/iphone-13-pro-oneway-1_1655520789.png"
+        },
+        {
+            "id": 9,
+            "name": "Iphone",
+            "title": "Apple iphone 14 6GB  - 64GB VN/A",
+            "price_old": 1400,
+            "price_current": 1260,
+            "like": "FALSE",
+            "star": "3",
+            "image": "https://onewaymobile.vn/images/products/2022/09/08/resized/14-1-3_1662617952.png"
+        },
+        {
+            "id": 10,
+            "name": "Iphone",
+            "title": "Apple iphone 13 4GB  - 256GB VN/A",
+            "price_old": 1450,
+            "price_current": 1305,
+            "like": true,
+            "star": "4",
+            "image": "https://onewaymobile.vn/images/products/2022/06/18/resized/iphone-13-pro-oneway-2_1655520772.png"
+        },
+        {
+            "id": 11,
+            "name": "Iphone",
+            "title": "Apple iphone 14 Plus 6GB  - 64GB VN/A",
+            "price_old": 1500,
+            "price_current": 1350,
+            "like": true,
+            "star": "5",
+            "image": "https://onewaymobile.vn/images/products/2022/06/18/resized/iphone-12-oneway-2_1655521384.png"
+        },
+        {
+            "id": 12,
+            "name": "Iphone",
+            "title": "Apple iphone 13 4GB  - 512GB VN/A",
+            "price_old": 1550,
+            "price_current": 1395,
+            "like": "FALSE",
+            "star": "4",
+            "image": "https://onewaymobile.vn/images/products/2022/06/18/resized/iphone-13-pro-oneway-1_1655520789.png"
+        },
+        {
+            "id": 13,
+            "name": "Iphone",
+            "title": "Apple iphone 14 Plus 6GB  - 128GB VN/A",
+            "price_old": 1600,
+            "price_current": 1440,
+            "like": true,
+            "star": "4",
+            "image": "https://onewaymobile.vn/images/products/2022/09/08/resized/14-1-5_1662618623.png"
+        },
+        {
+            "id": 14,
+            "name": "Iphone",
+            "title": "Apple iphone 14 6GB  - 256GB VN/A",
+            "price_old": 1650,
+            "price_current": 1485,
+            "like": true,
+            "star": "5",
+            "image": "https://onewaymobile.vn/images/products/2022/09/08/resized/14-1-3_1662617952.png"
+        },
+        {
+            "id": 15,
+            "name": "Iphone",
+            "title": "Apple iphone 13 Pro Max 6GB  - 128GB VN/A",
+            "price_old": 1700,
+            "price_current": 1530,
+            "like": true,
+            "star": "5",
+            "image": "https://onewaymobile.vn/images/products/2021/09/23/resized/iphone-13-pro-max-_-onewaymobile_1632386599-copy-copy-copy.png"
+        },
+        {
+            "id": 16,
+            "name": "Iphone",
+            "title": "Apple iphone 14 Pro 6GB  - 128GB VN/A",
+            "price_old": 1750,
+            "price_current": 1575,
+            "like": true,
+            "star": "3",
+            "image": "https://onewaymobile.vn/images/products/2022/09/08/resized/14-pro-3_1662613801.png"
+        },
+        {
+            "id": 17,
+            "name": "Iphone",
+            "title": "Apple iphone 14 Pro Max 6GB  - 128GB VN/A",
+            "price_old": 1800,
+            "price_current": 1620,
+            "like": "FALSE",
+            "star": "5",
+            "image": "https://onewaymobile.vn/images/products/2022/09/10/resized/14-promax-4_1662777413.png"
+        },
+        {
+            "id": 18,
+            "name": "Iphone",
+            "title": "Apple iphone 14 Plus 6GB  - 512GB VN/A",
+            "price_old": 1850,
+            "price_current": 1665,
+            "like": true,
+            "star": "5",
+            "image": "https://onewaymobile.vn/images/products/2023/04/05/resized/14-plus-vang_1680675602.png"
+        },
+        {
+            "id": 19,
+            "name": "Iphone",
+            "title": "Apple iphone 13 Pro Max 6GB  - 512GB VN/A",
+            "price_old": 1900,
+            "price_current": 1710,
+            "like": true,
+            "star": "4",
+            "image": "https://onewaymobile.vn/images/products/2021/09/23/resized/iphone-13-pro-max-_-onewaymobile_1632386599-copy-copy-copy.png"
+        },
+        {
+            "id": 20,
+            "name": "Iphone",
+            "title": "Apple iphone 14 Pro 6GB  - 256GB VN/A",
+            "price_old": 1950,
+            "price_current": 1755,
+            "like": true,
+            "star": "3",
+            "image": "https://onewaymobile.vn/images/products/2022/09/08/resized/14-pro-3_1662613801.png"
+        },
+        {
+            "id": 21,
+            "name": "Iphone",
+            "title": "Apple iphone 14 Pro Max 6GB  - 256GB VN/A",
+            "price_old": 2000,
+            "price_current": 1800,
+            "like": "FALSE",
+            "star": 4,
+            "image": "https://onewaymobile.vn/images/products/2022/09/10/resized/14-promax-4_1662777413.png"
+        },
+        {
+            "id": 22,
+            "name": "Iphone",
+            "title": "Apple iphone 14 Plus 6GB  - 1TB VN/A",
+            "price_old": 2050,
+            "price_current": 1845,
+            "like": true,
+            "star": 4,
+            "image": "https://onewaymobile.vn/images/products/2023/04/05/resized/14-plus-vang_1680675602.png"
+        },
+        {
+            "id": 23,
+            "name": "Iphone",
+            "title": "Apple iphone 14 Pro 6GB  - 1TB VN/A",
+            "price_old": 2100,
+            "price_current": 1890,
+            "like": true,
+            "star": 5,
+            "image": "https://onewaymobile.vn/images/products/2022/09/08/resized/14-pro-3_1662613801.png"
+        },
+        {
+            "id": 24,
+            "name": "Iphone",
+            "title": "Apple iphone 14 Pro Max 6GB  - 1TB VN/A",
+            "price_old": 2150,
+            "price_current": 1935,
+            "like": "FALSE",
+            "star": 3,
+            "image": "https://onewaymobile.vn/images/products/2022/09/10/resized/14-promax-4_1662777413.png"
+        }
+    ],
+    "imacs": [
+        {
+            "id": 1,
+            "name": "iMac",
+            "title": "iMac 27\" 2020 5K - Core i5 - Ram 8GB - 256GB",
+            "price_old": "1400",
+            "price_current": 1260,
+            "like": true,
+            "star": "5",
+            "image": "https://onewaymacbook.vn/images/products/2022/07/22/resized/mxwt2_1658474750.webp"
+        },
+        {
+            "id": 2,
+            "name": "iMac",
+            "title": "iMac 21.5\" 2020 4K - Core i5 - RAM 8GB - 256GB",
+            "price_old": "1200",
+            "price_current": 1080,
+            "like": false,
+            "star": "3",
+            "image": "https://onewaymacbook.vn/images/products/2020/09/21/resized/imac-2020-mhk33-onewaymacbookvnjpg_1600697393.webp"
+        },
+        {
+            "id": 3,
+            "name": "iMac",
+            "title": "iMac 21.5\" 2020 - Core i5 - RAM 8GB - 256GB",
+            "price_old": "1000",
+            "price_current": 900,
+            "like": true,
+            "star": "4",
+            "image": "https://onewaymacbook.vn/images/products/2022/08/04/resized/imac-m1-white-1_1659579151.webp"
+        },
+        {
+            "id": 4,
+            "name": "iMac",
+            "title": "iMac 27\" 2020 5K - Core i5 - Ram 16GB - 256GB",
+            "price_old": "",
+            "price_current": "1400",
+            "like": true,
+            "star": "4",
+            "image": "https://onewaymacbook.vn/images/products/2022/08/04/resized/imac-m1-purple_1659579132.webp"
+        },
+        {
+            "id": 5,
+            "name": "iMac",
+            "title": "iMac 24\" 2021 - Apple M1 - RAM 8GB - 256GB",
+            "price_old": "1400",
+            "price_current": 1260,
+            "like": false,
+            "star": "3",
+            "image": "https://onewaymacbook.vn/images/products/2020/09/21/resized/imac-2020-mhk33-onewaymacbookvnjpg_1600697393.webp"
+        },
+        {
+            "id": 6,
+            "name": "iMac",
+            "title": "iMac 24\" 2021 - Apple M1 - RAM 8GB - 512GB",
+            "price_old": "1600",
+            "price_current": 1440,
+            "like": true,
+            "star": "5",
+            "image": "https://onewaymacbook.vn/images/products/2022/08/04/resized/imac-m1-white-1_1659579151.webp"
+        },
+        {
+            "id": 7,
+            "name": "iMac",
+            "title": "iMac 24\" 2021 - Apple M1 - Ram 16GB - 512GB",
+            "price_old": "1800",
+            "price_current": 1620,
+            "like": false,
+            "star": "2",
+            "image": "https://onewaymacbook.vn/images/products/2022/08/04/resized/imac-m1-gold_1659579112.webp"
+        },
+        {
+            "id": 8,
+            "name": "iMac",
+            "title": "iMac 24\" 2021 - Apple M1 - RAM 16GB - 256GB",
+            "price_old": "1550",
+            "price_current": 1395,
+            "like": true,
+            "star": "5",
+            "image": "https://onewaymacbook.vn/images/products/2022/08/04/resized/imac-m1-purple_1659579132.webp"
+        },
+        {
+            "id": 9,
+            "name": "iMac",
+            "title": "iMac 27\" 2020 5K - Core i5 - Ram 16GB - 512GB",
+            "price_old": "1800",
+            "price_current": 1620,
+            "like": false,
+            "star": "3",
+            "image": "https://onewaymacbook.vn/images/products/2022/08/04/resized/imac-m1-gold_1659579112.webp"
+        },
+        {
+            "id": 10,
+            "name": "iMac",
+            "title": "iMac 27\" 2020 5K - Core i5 - Ram 8GB - 512GB",
+            "price_old": "1600",
+            "price_current": 1440,
+            "like": false,
+            "star": "4",
+            "image": "https://onewaymacbook.vn/images/products/2022/07/22/resized/mxwt2_1658474750.webp"
+        },
+        {
+            "id": 11,
+            "name": "iMac",
+            "title": "iMac 21.5\" 2020 4K - Core i5 - RAM 8GB - 512GB",
+            "price_old": "1500",
+            "price_current": 1350,
+            "like": true,
+            "star": "5",
+            "image": "https://onewaymacbook.vn/images/products/2022/08/04/resized/imac-m1-green_1659579054.webp"
+        },
+        {
+            "id": 12,
+            "name": "iMac",
+            "title": "iMac 21.5\" 2020 4K - Core i5 - RAM 16GB - 256GB",
+            "price_old": "1600",
+            "price_current": 1440,
+            "like": false,
+            "star": "2",
+            "image": "https://onewaymacbook.vn/images/products/2022/08/04/resized/imac-m1-gold_1659579112.webp"
+        },
+        {
+            "id": 13,
+            "name": "iMac",
+            "title": "iMac 21.5\" 2020 4K - Core i5 - RAM 16GB - 512GB",
+            "price_old": "1700",
+            "price_current": 1530,
+            "like": false,
+            "star": "4",
+            "image": "https://onewaymacbook.vn/images/products/2022/08/04/resized/imac-m1-pink_1659579079.webp"
+        },
+        {
+            "id": 14,
+            "name": "iMac",
+            "title": "iMac 21.5\" 2020 4K - Core i5 - RAM 8GB - 256GB",
+            "price_old": "1200",
+            "price_current": 1080,
+            "like": true,
+            "star": "5",
+            "image": "https://onewaymacbook.vn/images/products/2022/08/04/resized/imac-m1-green_1659579054.webp"
+        },
+        {
+            "id": 15,
+            "name": "iMac",
+            "title": "iMac 21.5\" 2020 - Core i5 - RAM 8GB - 512GB",
+            "price_old": "1200",
+            "price_current": 1080,
+            "like": true,
+            "star": "5",
+            "image": "https://onewaymacbook.vn/images/products/2020/09/21/resized/imac-2020-mhk33-onewaymacbookvnjpg_1600697393.webp"
+        },
+        {
+            "id": 16,
+            "name": "iMac",
+            "title": "iMac 21.5\" 2020 - Core i5 - RAM 16GB - 256GB",
+            "price_old": "1250",
+            "price_current": 1125,
+            "like": false,
+            "star": "2",
+            "image": "https://onewaymacbook.vn/images/products/2022/08/04/resized/imac-m1-purple_1659579132.webp"
+        },
+        {
+            "id": 17,
+            "name": "iMac",
+            "title": "iMac 21.5\" 2020 - Core i5 - RAM 16GB - 512GB",
+            "price_old": "1500",
+            "price_current": 1350,
+            "like": true,
+            "star": "5",
+            "image": "https://onewaymacbook.vn/images/products/2022/07/22/resized/mxwt2_1658474750.webp"
+        },
+        {
+            "id": 18,
+            "name": "iMac",
+            "title": "iMac 27\" 2020 5K - Core i5 - Ram 16GB - 1TB",
+            "price_old": "2000",
+            "price_current": 1800,
+            "like": true,
+            "star": "5",
+            "image": "https://onewaymacbook.vn/images/products/2022/08/09/resized/imac-oneway-2020_1660010377.webp"
+        },
+        {
+            "id": 19,
+            "name": "iMac",
+            "title": "iMac 24\" 2021 - Apple M1 - Ram 16GB - 1TB",
+            "price_old": "2000",
+            "price_current": 1800,
+            "like": true,
+            "star": "4",
+            "image": "https://onewaymacbook.vn/images/products/2022/08/04/resized/imac-m1-pink_1659579079.webp"
+        },
+        {
+            "id": 20,
+            "name": "iMac",
+            "title": "iMac 24\" 2021 - Apple M1 - Ram 32GB - 1TB",
+            "price_old": "2300",
+            "price_current": 2070,
+            "like": false,
+            "star": "3",
+            "image": "https://onewaymacbook.vn/images/products/2022/08/09/resized/imac-oneway-2020_1660010377.webp"
+        }
+    ],
+    "ipads": [
+        {
+            "id": 1,
+            "name": "Ipad",
+            "title": "Apple iPad Gen 9 - Wifi 3GB - 64GB",
+            "price_old": "400",
+            "price_current": 360,
+            "like": true,
+            "star": "5",
+            "image": "https://onewaymobile.vn/images/products/2022/06/18/resized/ipad-gen-9-oneway-2_1655527401.png"
+        },
+        {
+            "id": 2,
+            "name": "Ipad",
+            "title": "Apple iPad Gen 9 - Wifi 4GB - 64GB",
+            "price_old": 450,
+            "price_current": 405,
+            "like": false,
+            "star": "3",
+            "image": "https://onewaymobile.vn/images/products/2022/06/18/resized/ipad-gen-9-oneway-2_1655527401.png"
+        },
+        {
+            "id": 3,
+            "name": "Ipad",
+            "title": "Apple iPad mini 5 - Wifi 4GB - 64GB",
+            "price_old": 500,
+            "price_current": 450,
+            "like": true,
+            "star": "4",
+            "image": "https://onewaymobile.vn/images/products/2022/06/18/resized/ipad-mini-oneway-1_1655528129.png"
+        },
+        {
+            "id": 4,
+            "name": "Ipad",
+            "title": "Apple iPad Gen 9 - Wifi 3GB - 256GB",
+            "price_old": 550,
+            "price_current": "1400",
+            "like": true,
+            "star": "4",
+            "image": "https://onewaymobile.vn/images/products/2022/06/18/resized/ipad-gen-9-oneway-1_1655527393.png"
+        },
+        {
+            "id": 5,
+            "name": "Ipad",
+            "title": "Apple iPad Gen 10 - Wifi 3GB - 64GB",
+            "price_old": 600,
+            "price_current": 540,
+            "like": false,
+            "star": "3",
+            "image": "https://onewaymobile.vn/images/products/2022/10/19/resized/ipad-gen-10-5_1666147970.png"
+        },
+        {
+            "id": 6,
+            "name": "Ipad",
+            "title": "Apple iPad Air 4 - Wifi 4GB - 64GB",
+            "price_old": 650,
+            "price_current": 585,
+            "like": true,
+            "star": "5",
+            "image": "https://onewaymobile.vn/images/products/2022/06/18/resized/ipad-air-4-oneway_1655526836.png"
+        },
+        {
+            "id": 7,
+            "name": "Ipad",
+            "title": "Apple iPad Gen 9 - 4G 4GB - 256GB",
+            "price_old": 700,
+            "price_current": 630,
+            "like": false,
+            "star": "2",
+            "image": "https://onewaymobile.vn/images/products/2022/06/18/resized/ipad-gen-9-oneway-2_1655527387.png"
+        },
+        {
+            "id": 8,
+            "name": "Ipad",
+            "title": "Apple iPad Mini 5 - 4G 4GB - 64GB",
+            "price_old": 750,
+            "price_current": 675,
+            "like": true,
+            "star": "5",
+            "image": "https://onewaymobile.vn/images/products/2022/06/18/resized/ipad-mini-oneway-2_1655528136.png"
+        },
+        {
+            "id": 9,
+            "name": "Ipad",
+            "title": "Apple iPad Gen 10 - 5G 4GB - 64GB",
+            "price_old": 800,
+            "price_current": 720,
+            "like": false,
+            "star": "3",
+            "image": "https://onewaymobile.vn/images/products/2022/10/19/resized/ipad-gen-10-6_1666148033.png"
+        },
+        {
+            "id": 10,
+            "name": "Ipad",
+            "title": "Apple iPad Air 5 2022 - Wifi 4GB - 64GB",
+            "price_old": 850,
+            "price_current": 765,
+            "like": false,
+            "star": "4",
+            "image": "https://onewaymobile.vn/images/products/2022/06/18/resized/ipad-air-5-onewaymobile-1_1655526751.png"
+        },
+        {
+            "id": 11,
+            "name": "Ipad",
+            "title": "Apple iPad Gen 10 - Wifi 3GB - 256GB",
+            "price_old": 900,
+            "price_current": 810,
+            "like": true,
+            "star": "5",
+            "image": "https://onewaymobile.vn/images/products/2022/10/19/resized/ipad-gen-10-7_1666148241.png"
+        },
+        {
+            "id": 12,
+            "name": "Ipad",
+            "title": "Apple iPad Mini 6 - 5G 4GB - 64GB",
+            "price_old": 950,
+            "price_current": 855,
+            "like": false,
+            "star": "2",
+            "image": "https://onewaymobile.vn/images/products/2022/06/18/resized/ipad-mini-6-oneway-1_1655527868.png"
+        },
+        {
+            "id": 13,
+            "name": "Ipad",
+            "title": "Apple iPad Air 4 2020 - 4G 4GB - 64GB",
+            "price_old": 1000,
+            "price_current": 900,
+            "like": false,
+            "star": "4",
+            "image": "https://onewaymobile.vn/images/products/2022/06/18/resized/ipad-air-4-oneway_1655526830.png"
+        },
+        {
+            "id": 14,
+            "name": "Ipad",
+            "title": "Apple iPad Gen 9 - Wifi 3GB - 64GB",
+            "price_old": 1050,
+            "price_current": 945,
+            "like": true,
+            "star": "5",
+            "image": "https://onewaymobile.vn/images/products/2022/06/18/resized/ipad-air-4-oneway_1655526830.png"
+        },
+        {
+            "id": 15,
+            "name": "Ipad",
+            "title": "Apple iPad Mini 5 - 4G 4GB - 256GB",
+            "price_old": 1100,
+            "price_current": 990,
+            "like": true,
+            "star": "5",
+            "image": "https://onewaymobile.vn/images/products/2022/06/18/resized/ipad-mini-oneway-2_1655528135.png"
+        },
+        {
+            "id": 16,
+            "name": "Ipad",
+            "title": "Apple iPad Mini 6 - 4G 4GB - 256GB",
+            "price_old": 1150,
+            "price_current": 1035,
+            "like": false,
+            "star": "2",
+            "image": "https://onewaymobile.vn/images/products/2022/06/18/resized/ipad-mini-6-oneway-2_1655527871.png"
+        },
+        {
+            "id": 17,
+            "name": "Ipad",
+            "title": "Apple iPad Pro 11\" 2020 - Wifi 6GB - 128GB",
+            "price_old": 1200,
+            "price_current": 1080,
+            "like": true,
+            "star": "5",
+            "image": "https://onewaymobile.vn/images/products/2022/06/18/resized/ipad-pro-m1-2020-129-oneway_1655525885.png"
+        },
+        {
+            "id": 18,
+            "name": "Ipad",
+            "title": "Apple iPad Air 5 2022 - 5G 8GB - 64GB",
+            "price_old": 1250,
+            "price_current": 1125,
+            "like": true,
+            "star": "5",
+            "image": "https://onewaymobile.vn/images/products/2022/06/18/resized/ipad-air-5-onewaymobile_1655526750.png"
+        },
+        {
+            "id": 19,
+            "name": "",
+            "title": "Apple iPad Air 4 2020 - 4G 4GB - 256GB",
+            "price_old": 1300,
+            "price_current": 1170,
+            "like": true,
+            "star": "4",
+            "image": "https://onewaymobile.vn/images/products/2022/06/18/resized/ipad-air-5-onewaymobile-1_1655526742.png"
+        },
+        {
+            "id": 20,
+            "name": "Ipad",
+            "title": "Apple iPad Gen 10 - 5G 4GB - 256GB",
+            "price_old": 1350,
+            "price_current": 1215,
+            "like": false,
+            "star": "3",
+            "image": "https://onewaymobile.vn/images/products/2022/10/19/resized/ipad-gen-10-8_1666148490.png"
+        },
+        {
+            "id": 21,
+            "name": "Ipad",
+            "title": "Apple iPad Pro 11\" 2020 - Wifi 6GB - 128GB",
+            "price_old": 1400,
+            "price_current": 1260,
+            "like": true,
+            "star": 4,
+            "image": "https://onewaymobile.vn/images/products/2022/06/18/resized/ipad-pro-m1-2020-129-oneway-1_1655525881.png"
+        },
+        {
+            "id": 22,
+            "name": "Ipad",
+            "title": "Apple iPad Pro 11\" 2021 - Wifi 8GB - 128GB",
+            "price_old": 1450,
+            "price_current": 1305,
+            "like": true,
+            "star": 5,
+            "image": "https://onewaymobile.vn/images/products/2021/07/09/resized/ipad-pro-m1-11-wifi_1625793928.png"
+        },
+        {
+            "id": 23,
+            "name": "Ipad",
+            "title": "Apple iPad Pro 11\" 2022 - Wifi 8GB - 256GB",
+            "price_old": 1500,
+            "price_current": 1350,
+            "like": true,
+            "star": 5,
+            "image": "https://onewaymobile.vn/images/products/2022/10/19/resized/ipad-pro-m2-11-1_1666152942.png"
+        }
+    ],
+    "mac_mini": [
+        {
+            "id": 1,
+            "name": "Mac mini",
+            "title": "Mac Mini - Apple M1 - RAM 8GB - 256GB",
+            "price_old": "900",
+            "price_current": 810,
+            "like": true,
+            "star": "5",
+            "image": "https://onewaymacbook.vn/images/products/2021/03/08/resized/mac-mini-m1-mgnr3-onewaymacbookvn3_1615198005.webp"
+        },
+        {
+            "id": 2,
+            "name": "Mac mini",
+            "title": "Mac Mini - Apple M2 - RAM 8GB - 256GB",
+            "price_old": 1000,
+            "price_current": 900,
+            "like": "TRUE",
+            "star": "4",
+            "image": "https://onewaymacbook.vn/images/products/2021/03/08/resized/mac-mini-m1-mgnr3-onewaymacbookvn3_1615198005.webp"
+        },
+        {
+            "id": 3,
+            "name": "Mac mini",
+            "title": "Mac Mini - Apple M1 - RAM 8GB - 512GB",
+            "price_old": 1100,
+            "price_current": 990,
+            "like": false,
+            "star": "3",
+            "image": "https://onewaymacbook.vn/images/products/2022/05/09/resized/mgnr3_1652107786.webp"
+        },
+        {
+            "id": 4,
+            "name": "Mac mini",
+            "title": "Mac Mini - Apple M2 - RAM 8GB - 512GB",
+            "price_old": 1200,
+            "price_current": 1080,
+            "like": true,
+            "star": "4",
+            "image": "https://onewaymacbook.vn/images/products/2023/03/06/resized/mac-mini-1_1678115224.png"
+        },
+        {
+            "id": 5,
+            "name": "Mac mini",
+            "title": "Mac Mini - Apple M1 - RAM 16GB - 256GB",
+            "price_old": 1300,
+            "price_current": 1170,
+            "like": false,
+            "star": "3",
+            "image": "https://onewaymacbook.vn/images/products/2021/03/08/resized/mac-mini-m1-mgnr3-onewaymacbookvn3_1615198005.webp"
+        },
+        {
+            "id": 6,
+            "name": "Mac mini",
+            "title": "Mac Mini - Apple M2 - RAM 16GB - 256GB",
+            "price_old": 1400,
+            "price_current": 1260,
+            "like": true,
+            "star": "5",
+            "image": "https://onewaymacbook.vn/images/products/2023/03/06/resized/mac-mini-1_1678115224.png"
+        },
+        {
+            "id": 7,
+            "name": "Mac mini",
+            "title": "Mac Mini - Apple M1 - RAM 16GB - 512GB",
+            "price_old": 1500,
+            "price_current": 1350,
+            "like": true,
+            "star": "5",
+            "image": "https://onewaymacbook.vn/images/products/2022/05/09/resized/mgnr3_1652107786.webp"
+        },
+        {
+            "id": 8,
+            "name": "Mac mini",
+            "title": "Mac Mini - Apple M2 - RAM 16GB - 512GB",
+            "price_old": 1600,
+            "price_current": 1440,
+            "like": true,
+            "star": "4",
+            "image": "https://onewaymacbook.vn/images/products/2023/03/06/resized/mac-mini-1_1678115224.png"
+        },
+        {
+            "id": 9,
+            "name": "Mac mini",
+            "title": "Mac Mini - Apple M1 Pro - RAM 16GB - 512GB",
+            "price_old": 1700,
+            "price_current": 1530,
+            "like": true,
+            "star": "5",
+            "image": "https://onewaymacbook.vn/images/products/2023/03/06/resized/mac-mini-1_1678115224.png"
+        },
+        {
+            "id": 10,
+            "name": "Mac mini",
+            "title": "Mac Mini - Apple M2 Pro - RAM 16GB - 512GB",
+            "price_old": 1800,
+            "price_current": 1620,
+            "like": false,
+            "star": "3",
+            "image": "https://onewaymacbook.vn/images/products/2022/05/09/resized/mgnr3_1652107786.webp"
+        },
+        {
+            "id": 11,
+            "name": "Mac mini",
+            "title": "Mac Mini - Apple 2022 Pro - RAM 16GB - 512GB",
+            "price_old": 1900,
+            "price_current": 1710,
+            "like": true,
+            "star": "5",
+            "image": "https://onewaymacbook.vn/images/products/2021/03/08/resized/mac-mini-m1-mgnr3-onewaymacbookvn3_1615198005.webp"
+        },
+        {
+            "id": 12,
+            "name": "Mac mini",
+            "title": "Mac Mini - Apple 2023 Pro - RAM 16GB - 512GB",
+            "price_old": 2000,
+            "price_current": 1800,
+            "like": true,
+            "star": "4",
+            "image": "https://onewaymacbook.vn/images/products/2022/05/09/resized/mgnr3_1652107786.webp"
+        }
+    ],
+    "mac_studio": [
+        {
+            "id": 1,
+            "name": "Mac Studio",
+            "title": "Apple Mac Studio - Apple M1 Max - 10 Core CPU - 24 Core GPU - 16 Core Neural Engine",
+            "price_old": "2500",
+            "price_current": 2250,
+            "like": true,
+            "star": "5",
+            "image": "https://onewaymacbook.vn/images/products/2022/07/21/resized/macstudio-oneway-1_1658387574.webp"
+        },
+        {
+            "id": 2,
+            "name": "Mac Studio",
+            "title": "Apple Mac Studio - Apple M1 Ultra - 20 Core CPU - 48 Core GPU - 32 Core Neural Engine",
+            "price_old": "5000",
+            "price_current": 4500,
+            "like": "TRUE",
+            "star": "4",
+            "image": "https://onewaymacbook.vn/images/products/2022/07/21/resized/macstudio-oneway-1_1658387574.webp"
+        }
+    ]
+}
